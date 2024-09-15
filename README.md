@@ -1,7 +1,7 @@
 # Video Ad Generation
 
 ## Overview
-This creates video advertisements using Generative AI. It utilizes the Stable Diffusion model to generate images based on product descriptions and backgrounds and then compiles these images into a video advertisement (slideshow).
+This creates video advertisements using the Stable Diffusion model to generate images based on product descriptions and backgrounds, then compiles these images into a video advertisement (slideshow).
 
 ## Features
 - **Image Generation**: Creates product images from descriptive prompts using Stable Diffusion.
